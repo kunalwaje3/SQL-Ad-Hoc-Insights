@@ -1,1 +1,1 @@
-# SQL-Ad-Hoc-Insights
+# SQL-Project : Ad Hoc Insights
